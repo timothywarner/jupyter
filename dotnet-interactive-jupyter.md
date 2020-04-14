@@ -54,4 +54,3 @@ jupyter lab
 * [.NET Interactive repository](https://github.com/dotnet/interactive)
 * [Jupyter docs](https://jupyter.readthedocs.io/en/latest/)
 * [JupyterLab docs](https://jupyterlab.readthedocs.io/en/stable/)
-*
